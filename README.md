@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akhacker3696-hash/myleetcode/tree/master/0258-add-digits) |
+| [1603-design-parking-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -49,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/akhacker3696-hash/myleetcode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/akhacker3696-hash/myleetcode/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
