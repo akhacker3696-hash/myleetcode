@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akhacker3696-hash/myleetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/akhacker3696-hash/myleetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/akhacker3696-hash/myleetcode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/akhacker3696-hash/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/akhacker3696-hash/myleetcode/tree/master/0217-contains-duplicate) |
+| [1512-number-of-good-pairs](https://github.com/akhacker3696-hash/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/akhacker3696-hash/myleetcode/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhacker3696-hash/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/akhacker3696-hash/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhacker3696-hash/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/akhacker3696-hash/myleetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
