@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/akhacker3696-hash/myleetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akhacker3696-hash/myleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/akhacker3696-hash/myleetcode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/akhacker3696-hash/myleetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/1603-design-parking-system) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/akhacker3696-hash/myleetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
