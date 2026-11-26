@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhacker3696-hash/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2349-design-a-number-container-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## String
 |  |
 | ------- |
@@ -50,4 +51,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akhacker3696-hash/myleetcode/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/2349-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
