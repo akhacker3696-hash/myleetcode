@@ -20,6 +20,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhacker3696-hash/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/akhacker3696-hash/myleetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/akhacker3696-hash/myleetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhacker3696-hash/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/akhacker3696-hash/myleetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
