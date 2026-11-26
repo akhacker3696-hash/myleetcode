@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhacker3696-hash/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/akhacker3696-hash/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [2349-design-a-number-container-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## String
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhacker3696-hash/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/akhacker3696-hash/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhacker3696-hash/myleetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/akhacker3696-hash/myleetcode/tree/master/0136-single-number) |
 ## Two Pointers
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [2349-design-a-number-container-system](https://github.com/akhacker3696-hash/myleetcode/tree/master/2349-design-a-number-container-system) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/akhacker3696-hash/myleetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
