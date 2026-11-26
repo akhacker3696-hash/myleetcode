@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhacker3696-hash/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/akhacker3696-hash/myleetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/akhacker3696-hash/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhacker3696-hash/myleetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/akhacker3696-hash/myleetcode/tree/master/0136-single-number) |
@@ -32,10 +33,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/akhacker3696-hash/myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akhacker3696-hash/myleetcode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/akhacker3696-hash/myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akhacker3696-hash/myleetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
